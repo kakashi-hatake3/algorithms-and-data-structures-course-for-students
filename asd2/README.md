@@ -1,0 +1,1 @@
+Implement Timsort. The implementation should include all the main elements of the algorithm: insertion sort, finding run sequences, calculating minrun, merging run sequences, and galloping mode during merging.
